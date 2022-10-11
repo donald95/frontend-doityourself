@@ -9,10 +9,10 @@
 
 ## Steps to run
 
-1. git clone git@github.com:donald95/frontend-doityourself.git
-2. cd frontend-doityourself/
-3. npm install
-4. npm run build
-5. npm run preview
-6. ➜ Exposed Local Link: http://localhost:4173/
+1. `git clone git@github.com:donald95/frontend-doityourself.git`
+2. `cd frontend-doityourself/`
+3. `npm install`
+4. `npm run build`
+5. `npm run preview`
+6. `➜ Exposed Local Link: http://localhost:4173/`
 
