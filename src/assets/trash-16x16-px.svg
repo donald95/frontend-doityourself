@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="trash-16x16-px.svg"
+   inkscape:export-filename="/home/manjaro/Desktop/trash-test.png"
+   inkscape:export-xdpi="3"
+   inkscape:export-ydpi="3"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="24.865144"
+     inkscape:cx="4.5646227"
+     inkscape:cy="6.6156866"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14452"
+     inkscape:showpageshadow="true"
+     showborder="true"
+     borderlayer="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-page="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7356"
+       empspacing="5"
+       spacingx="0.5"
+       spacingy="0.5" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6848"
+       transform="matrix(1.0400697,0,0,1.0400697,-10.257844,-0.64814137)"
+       style="stroke-width:43.2663;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/manjaro/Desktop/g6848.png"
+       inkscape:export-xdpi="3.1875"
+       inkscape:export-ydpi="3.1875">
+      <g
+         id="g6925"
+         transform="matrix(0.03103882,0,0,0.03103882,9.6085048,0.65451994)">
+        <g
+           id="g11466"
+           transform="matrix(1.1453626,0,0,1.1453626,-37.212825,-36.41634)">
+          <g
+             id="g14452"
+             transform="matrix(0.9997828,0,0,1.0039864,0.05560339,-0.16316184)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:40.5677;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 80.206538,112.04823 c 117.195642,0 234.391292,0 351.586932,0"
+               id="path2937"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:40.5677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 207.90214,91.764369 c 0,-13.752294 0,-27.504587 0,-41.256881 32.06524,0 64.13049,0 96.19573,0 0,13.752294 0,27.504587 0,41.256881"
+               id="path3088" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:40.5677;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               d="m 123.72364,100.58384 c 0,113.48172 0,226.96344 0,340.44516 88.18424,0 176.36848,0 264.55272,0 0,-113.48172 0,-226.96344 0,-340.44516"
+               id="path7721" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:40.4915;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 215.42347,179.11026 c 0,60.41269 0,120.82538 0,181.23808"
+               id="path14478"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:40.4915;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 296.57653,179.11026 c 0,60.41269 0,120.82538 0,181.23808"
+               id="path19628"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
